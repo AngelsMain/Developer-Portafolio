@@ -53,6 +53,9 @@ section.active {
     opacity: 1;
     transform: translateY(0);
 }
+section#sobre-mi {
+    margin-top: 80px; /* Agregar margen superior para evitar que el header oculte parte de esta sección */
+}
 section h2 {
     margin-bottom: 30px;
     text-align: center;
