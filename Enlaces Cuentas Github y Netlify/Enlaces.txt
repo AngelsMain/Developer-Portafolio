@@ -2,11 +2,4 @@ GitHub
 https://github.com/AngelsMain
 Netlify
 https://angel-portafolio-dev.netlify.app
-11
-12
-13
-14
-15
-16
-17
-18
+19
